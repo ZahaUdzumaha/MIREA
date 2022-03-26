@@ -4,105 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8644d0b7-ef2c-4747-b708-1e5015815873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/androidTest/java/ru/mirea/kabanov/practice2/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/java/ru/mirea/kabanov/practice2/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/app/src/test/java/ru/mirea/kabanov/practice2/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/androidTest/java/ru/mirea/kabanov/lifecycleactivity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/java/ru/mirea/kabanov/lifecycleactivity/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/lifecycleactivity/src/test/java/ru/mirea/kabanov/lifecycleactivity/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/androidTest/java/ru/mirea/kabanov/multiactivity/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/java/ru/mirea/kabanov/multiactivity/FirstFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/java/ru/mirea/kabanov/multiactivity/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/java/ru/mirea/kabanov/multiactivity/SecondActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/java/ru/mirea/kabanov/multiactivity/SecondFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/layout/activity_second.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/layout/content_second.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/layout/fragment_first.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/layout/fragment_second.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values-land/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/multiactivity/src/test/java/ru/mirea/kabanov/multiactivity/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2/settings.gradle" afterDir="false" />
+    <list default="true" id="8644d0b7-ef2c-4747-b708-1e5015815873" name="Default Changelist" comment="INITEAL COMMIT 2">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +38,14 @@
       <option name="presentableId" value="Default" />
       <updated>1648296187193</updated>
     </task>
+    <task id="LOCAL-00001" summary="INITEAL COMMIT">
+      <created>1648297455232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648297455232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +59,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="INITEAL COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="INITEAL COMMIT" />
   </component>
 </project>
