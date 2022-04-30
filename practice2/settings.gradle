@@ -13,6 +13,9 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "practice2"
-include ':app'
+include ':dialogapp'
+include ':intentfilter'
 include ':lifecycleactivity'
-include ':multiactivity'
+include ':multyactivity'
+include ':notificationapp'
+include ':toastapp'
