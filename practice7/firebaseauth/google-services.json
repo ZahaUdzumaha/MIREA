@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765128604957",
+    "project_id": "practice7-26edb",
+    "storage_bucket": "practice7-26edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765128604957:android:7e4712e89bcd01bf14f5f4",
+        "android_client_info": {
+          "package_name": "ru.mirea.kabanov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765128604957-4o05551b88s754o4isue2iarpsm7neij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIuhaWpOtpy_EACTycdvahBZg5bTivQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765128604957-4o05551b88s754o4isue2iarpsm7neij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
