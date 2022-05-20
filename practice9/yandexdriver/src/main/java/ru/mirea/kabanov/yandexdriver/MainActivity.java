@@ -23,8 +23,6 @@ import com.yandex.mapkit.map.MapObjectCollection;
 import com.yandex.mapkit.mapview.MapView;
 
 import com.yandex.runtime.Error;
-import com.yandex.runtime.network.NetworkError;
-import com.yandex.runtime.network.RemoteError;
 
 import java.util.ArrayList;
 import java.util.List;
