@@ -10,9 +10,6 @@ import ru.mirea.kabanov.mireaproject.R;
 public class MusicPlayerService extends Service {
     private MediaPlayer mediaPlayer;
 
-    public MusicPlayerService() {
-    }
-
     @Override
     public IBinder onBind(Intent intent) {
         throw new UnsupportedOperationException("Not yet implemented");
